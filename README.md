@@ -1,4 +1,5 @@
 # Eks-Project
+<<<<<<< HEAD
 markdown
 # Scalable Three-Tier AWS Architecture with Terraform
 
@@ -104,3 +105,5 @@ Automated provisioning and configuration.
 Rajendra Chougale  
 System | Cloud | DevOps Engineer
 LinkedIn (linkedin.com in Bing) | GitHub
+=======
+>>>>>>> 693ee76 (teast3)
